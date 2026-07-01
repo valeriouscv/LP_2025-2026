@@ -1,0 +1,18 @@
+LP 22/04/2026
+----------------------------------------------------------------------------------------------
+Ex01) Fatorial de n.
+	n! = n x (n-1)!
+	5! = 5 x 4 x 3 x 2 x 1 = 120
+Ex02) Sequencia de Fibonacci:
+	f(n) = f(n-1) + f(n-2)
+	para f(5) a sequencia é: 0 1 1 2 3 5
+Ex03) Soma todos os dígitos de um número natural.
+	Exemplo: n = 123, res= 1 + 2 + 3 = 6
+
+Ex04) Faça um programa em Java que pede informações ao utilizador (nome, idade e sexo) e mostra uma mensagem do género: "Olá {nome}, tens {idade} anos e és um {rapaz/menina}". 
+Validar as entradas para idade e para o sexo.
+
+Ex05) Peça ao utilizador os valores para a, b e c, e calcule a equação do segundo grau, usando a fórmula resolvente (fórmula de Báskara
+	delta = b^2 - 4ac
+	x1 = (-b + raizq(delta))/2a
+	x2 = (-b - raizq(delta))/2a
